@@ -357,6 +357,7 @@ Chart saved: charts/room_type_share.png
 
 ---
 
-##Author
-
-Aman kumar
+## Author
+Name: Aman Kumar Shrivastav
+ERP: RU-26-02505
+Section: 1I
